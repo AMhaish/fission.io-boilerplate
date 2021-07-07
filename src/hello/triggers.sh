@@ -1,0 +1,1 @@
+fission httptrigger create --url /hello --method GET --function hello

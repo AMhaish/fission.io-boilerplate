@@ -1,0 +1,1 @@
+fission route create --url /hello --method GET --function hello --createingress

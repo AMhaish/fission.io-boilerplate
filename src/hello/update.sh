@@ -1,0 +1,1 @@
+fission fn update --name hello --code hello.js

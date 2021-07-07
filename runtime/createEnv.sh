@@ -1,0 +1,1 @@
+fission env create --name nodejs --image amhaish/fission.io:latest
